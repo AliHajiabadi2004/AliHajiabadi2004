@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web programming
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on Big projects
-- 📫 How to reach me GitHub , instagram , telegram
+- 📫 How to reach me GitHub , instagram , telegram , email
 
 <!---
 AliHajiabadi2004/AliHajiabadi2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
